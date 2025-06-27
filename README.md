@@ -18,8 +18,8 @@ Key skills:
 
 Main results: 
 
-•	A two-stage predictive model was developed for financial time series forecasting, where the first stage predicted trading volume and the second used that output, alongside technical indicators and past price data, to forecast stock prices (see the bottom-left figure).
+•	A two-stage predictive model was developed for financial time series forecasting, where the first stage predicted trading volume and the second used that output, alongside technical indicators and past price data, to forecast stock prices.
 
-•	The system was successful in identifying the overall direction of market movement, making it effective for trend-based trading strategies (see the bottom-right figure).
+•	The system was successful in identifying the overall direction of market movement, making it effective for trend-based trading strategies.
 
 •	The developed system successfully demonstrated the integration of analytical forecasting methods with automated decision logic. This work lays the foundation for further development, such as improving model performance with more advanced architectures (e.g., LSTM or Transformer) and deploying the assistant as a full-featured tool for traders and analysts.
