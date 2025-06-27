@@ -1,0 +1,1 @@
+# Development-of-an-Intelligent-Assistant-for-Trading-Systems-Based-on-a-Recurrent-Neural-Network
